@@ -1,18 +1,17 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Amr Yasser",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "github.com/amryk2012.png",
+    "email": "amryasserds@gmail.com",
+    "phone": "01553969893",
+    "website": "https://amryk2012.github.io",
+    "summary": "I am studying for a B.S. in Law at the University of Ain Shams. I expect to graduate in Spring, 2025.",
+    "location": {"address": "", "city": "Cairo", "countryCode": "Egypt", "region": "Cairo" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "amryk2012", "url": "http://github.com/amryk2012" },
+      { "network": "linkedin", "username": "amr-yasser-760251233", "url": "www.linkedin.com/in/amr-yasser-760251233" },
+      { "network": "instagram", "username": "amr_yasser_5565", "url": "https://www.instagram.com/amr_yasser_5565" }
     ]
   },
   "interests": [

@@ -21,4 +21,4 @@ Although I didn't create the 3D models, I edited and tweaked the animations to m
 The project gave me experience working with Unity's animation system, Photon Networking for real-time multiplayer functionality, and collaborating on game development in a short timeframe.
 
  
-Source: <a href="https://www.youtube.com/watch?v=ueNx3lF6GQE&t=15s">Preview</a>
+Source: <a href="https://www.youtube.com/watch?v=ueNx3lF6GQE">Preview</a>

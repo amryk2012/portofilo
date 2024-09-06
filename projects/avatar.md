@@ -14,6 +14,12 @@ summary: "A remake of the Nickelodeon game Avatar: Legend of the Arena developed
 
 <img class="img-fluid" src="../img/avatar/avatar-home-page.png">
 
+<div class="text-center p-4">
+  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
+  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+</div>
+
 The Avatar: Legend of the Arena Remake is a passion project I worked on with a friend. It is a remake of the original Nickelodeon game based on the show Avatar: The Last Airbender. We developed the game in Unity with Photon Networking for the multiplayer aspect.
 
 Although I didn't create the 3D models, I edited and tweaked the animations to match my vision for the gameplay and handled all of the programming. This project was a fun and challenging hobby, completed in one month with the help of a friend who contributed to the visual effects (VFX).

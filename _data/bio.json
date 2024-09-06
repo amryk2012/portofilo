@@ -15,8 +15,8 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
+    { "name": "Video Games" },
+    { "name": "Space" },
     { "name": "Quantum Computing" },
     { "name": "Robotics" },
     { "name": "3D Graphics" }
@@ -24,19 +24,19 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C#", "PHP", "MySQL", "Javascript" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [  "Ubuntu", "Git/GitHub",]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "Ain Shams University",
+      "area": "Law",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2019-09-01",
       "endDate": "Present",
       "courses": [
       ]

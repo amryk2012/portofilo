@@ -15,7 +15,7 @@ summary: "A First-person shooter multiplayer game that I developed."
 <div style="display: flex; flex-direction: column; align-items: center;">
   <!-- Image of the weapon system in the middle -->
   <div style="flex: 1;">
-    <img class="img-fluid" src="../img/fps/panal.jpg" alt="Coverm" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <img class="img-fluid" src="../img/fps/panal.jpg" alt="Coverm" style="max-width: 60%; height: auto; display: block; margin: 0 auto;">
   </div>
   
 <div style="display: flex; align-items: center;">

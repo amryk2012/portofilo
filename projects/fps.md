@@ -17,7 +17,7 @@ summary: "A First-person shooter multiplayer game that I developed."
 <div style="display: flex; align-items: center;">
   <!-- Image of the weapon system -->
   <div style="flex: 1;">
-    <img src="../img/fps/weapon.png" alt="Weapon System" style="max-width: 100%; height: auto;">
+    <img src="../img/fps/weapon.png" alt="Weapon System" style="max-width: 70%; height: auto;">
   </div>
 
   <!-- Description of the game and weapon system -->

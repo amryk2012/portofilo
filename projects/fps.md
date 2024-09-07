@@ -50,18 +50,11 @@ summary: "A First-person shooter multiplayer game that I developed."
   </div>
 </div>
 
-<!-- YouTube video showcase -->
-<div style="padding-top: 20px;">
-  <h3>Showcase Videos</h3>
-  
-  <div style="display: flex; gap: 20px;">
-    <!-- First video -->
-    <iframe width="300" height="200" src="../img/fps/video2.mp4" 
-    title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    
-    <!-- Second video -->
-    <iframe width="300" height="200" src="https://www.youtube.com/watch?v=gCgnTs32QJ0" 
-    title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  
-  </div>
+<!-- Video showcase -->
+<div style="padding-top: 20px; text-align: center;">
+  <h3>Gameplay Video</h3>
+  <video width="600" controls>
+    <source src="../img/fps/video2.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>

@@ -52,11 +52,11 @@ summary: "A First-person shooter multiplayer game that I developed."
   
   <div style="display: flex; gap: 20px;">
     <!-- First video -->
-    <iframe width="300" height="200" src="https://youtu.be/ku_1A8_NNAM" 
+    <iframe width="300" height="200" src="https://www.youtube.com/watch?v=ku_1A8_NNAM" 
     title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     
     <!-- Second video -->
-    <iframe width="300" height="200" src="https://youtu.be/gCgnTs32QJ0" 
+    <iframe width="300" height="200" src="https://www.youtube.com/watch?v=gCgnTs32QJ0" 
     title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
   </div>

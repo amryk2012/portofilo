@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/fps/cover.png
+image: img/fps/cover.gif
 title: "First-person shooter"
 date: 2020
 published: true
@@ -12,7 +12,7 @@ labels:
 summary: "A First-person shooter multiplayer game that I developed."
 ---
 
-<img class="img-fluid" src="../img/fps/panal.png">
+<img class="img-fluid" src="../img/fps/panal.jpg">
 
 <div style="display: flex; align-items: center;">
   <!-- Image of the weapon system -->

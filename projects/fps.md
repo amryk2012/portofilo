@@ -12,7 +12,7 @@ labels:
 summary: "A First-person shooter multiplayer game that I developed."
 ---
 
-<img class="img-fluid" src="../img/fps/panal.jpg" width="300px">
+<img class="img-fluid" src="../img/fps/panal.jpg" width="600px">
 
 <div style="display: flex; align-items: center;">
   <!-- Image of the weapon system -->

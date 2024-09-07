@@ -2,14 +2,14 @@
 layout: project
 type: project
 image: img/fps/cover.png
-title: "Cotton"
-date: 2014
+title: "First-person shooter"
+date: 2020
 published: true
 labels:
   - Unity 3d
   - GitHub
   - Photon Unity Networking
-summary: "A rst-person shooter multiplayer game that I developed."
+summary: "A First-person shooter multiplayer game that I developed."
 ---
 
 <img class="img-fluid" src="../img/fps/panal.png">

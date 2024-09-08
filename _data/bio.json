@@ -51,18 +51,23 @@
       "summary": "",
       "highlights": "Freelance development and production of games, applications, and websites. Proficient in various programming engines such as Unity 3D and Android Studio. Skilled in different programming languages including C#, JavaScript, PHP, and MySQL."
     },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+     {
+      "company": "Covo Connect",
+      "position": "Data Entry Clerk",
+      "startDate": "2016-01-01",
+      "endDate": "2016-06-30",
       "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
+      "highlights": "Compiling, verifying accuracy, and sorting information to prepare source data for computer entry. Inserting customer and account data by inputting text-based and numerical information from source documents within time limits."
+     },
+     {
+      "company": "Dream Computer Services Local Office",
+      "position": "Various Roles",
+      "startDate": "2016-10-01",
+      "endDate": "Present",
+      "summary": "",
+     "highlights": "Converting to digital and printing documents, scientific papers, and legal documents. Research and obtain further information for incomplete documents. Scan documents and print files when needed."
+    
+     }
   ],
   "volunteer": [
     {

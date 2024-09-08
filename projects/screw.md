@@ -21,12 +21,10 @@ aiming to accumulate the least points possible or force opponents into difficult
 
 This was my first attempt at developing a 2D card game, and I wanted to challenge myself with this project.
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Play Screw Game</title>
 </head>
 <body>
     <h1>Play Screw Game!</h1>

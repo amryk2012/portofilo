@@ -8,7 +8,7 @@ published: true
 labels:
   - Unity
   - C#
-  - Photon Unity Networking 
+  - Photon
 
 summary: "A web-based card game I developed, inspired by a YouTuber's creation."
 ---

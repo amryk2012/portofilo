@@ -24,3 +24,15 @@ It's a small, fun project where you can try it yourself <a href="https://amr-yas
 This was my first attempt at developing a 2D card game, and I wanted to challenge myself with this project.
 
  
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Play My Game</title>
+</head>
+<body>
+    <h1>Check Out My Game!</h1>
+   <iframe frameborder="0" src="https://itch.io/embed/2420863" width="552" height="167"><a href="https://amr-yasser.itch.io/screw">Screw by amr yasser</a></iframe>
+</body>
+</html>

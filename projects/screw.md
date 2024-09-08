@@ -20,17 +20,31 @@ aiming to accumulate the least points possible or force opponents into difficult
 
 
 This was my first attempt at developing a 2D card game, and I wanted to challenge myself with this project.
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Play My Unity Game</title>
+    <title>Play Screw Game</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0; /* Optional: Background color for better contrast */
+        }
+        iframe {
+            border: none; /* Removes border */
+            max-width: 100%;
+            max-height: 100%;
+        }
+    </style>
 </head>
 <body>
-    <h1>Play My Game!</h1>
     <iframe src="https://html-classic.itch.zone/html/10040462/Screw/index.html"
             allowfullscreen
-            frameborder="0"
             width="800"
             height="600"></iframe>
 </body>

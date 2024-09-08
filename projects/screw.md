@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/screw/screw-square.gif
-title: "card Game"
+title: "Screw card Game"
 date: 2024
 published: true
 labels:

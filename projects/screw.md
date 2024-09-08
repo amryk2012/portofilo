@@ -43,7 +43,7 @@ This was my first attempt at developing a 2D card game, and I wanted to challeng
     <title>Play My Game</title>
 </head>
 <body>
-    <h1>Check it Out</h1>
+    <h1>Check it on Itch.io</h1>
    <iframe frameborder="0" src="https://itch.io/embed/2420863" width="552" height="167"><a href="https://amr-yasser.itch.io/screw">Screw by amr yasser</a></iframe>
 </body>
 </html>

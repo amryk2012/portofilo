@@ -1,29 +1,26 @@
 ---
 layout: project
 type: project
-image: img/avatar/avatar-square.gif
-title: "Avatar Game"
-date: 2021
+image: img/screw/screw-square.gif
+title: "card Game"
+date: 2024
 published: true
 labels:
   - C#
   - Photon_Networking
   - GitHub
-summary: "A remake of the Nickelodeon game Avatar: Legend of the Arena developed in Unity with Photon Networking for multiplayer."
+summary: "A web-based card game I developed, inspired by a YouTuber's creation."
 ---
 
-<img class="img-fluid" src="../img/avatar/avatar-home-page.png">
 
-<div class="text-center p-4">
-  <img width="300px" src="../img/avatar/Animation3.gif" class="img-thumbnail" >
-  <img width="400px" src="../img/avatar/Animation2.gif" class="img-thumbnail" >
-</div>
+The card game *Screw* (لعبة سكرو), a web-based game inspired by a game created by YouTuber Yehia Azzam, is a competitive and strategic game designed for multiple players.
 
-The Avatar: Legend of the Arena Remake is a passion project I worked on with a friend. It is a remake of the original Nickelodeon game based on the show Avatar: The Last Airbender. We developed the game in Unity with Photon Networking for the multiplayer aspect.
+The game involves a special deck of cards with unique rules that encourage strategic thinking, bluffing, and teamwork. Players compete to outsmart each other by making calculated moves,
+aiming to accumulate the least points possible or force opponents into difficult situations.
 
-Although I didn't create the 3D models, I edited and tweaked the animations to match my vision for the gameplay and handled all of the programming. This project was a fun and challenging hobby, completed in one month with the help of a friend who contributed to the visual effects (VFX).
+It's a small, fun project where you can try it yourself <a href="https://amr-yasser.itch.io/screw">here</a>
 
-The project gave me experience working with Unity's animation system, Photon Networking for real-time multiplayer functionality, and collaborating on game development in a short timeframe.
+
+This was my first attempt at developing a 2D card game, and I wanted to challenge myself with this project.
 
  
-Source: <a href="https://www.youtube.com/watch?v=ueNx3lF6GQE">Preview</a>

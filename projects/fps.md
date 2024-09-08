@@ -9,7 +9,7 @@ labels:
   - Unity 3d
   - GitHub
   - Photon Unity Networking
-summary: "A First-person shooter multiplayer game that I developed."
+summary: "A fast-paced first-person shooter multiplayer game featuring a variety of weapons, customizable systems, and multiple gameplay modes, including AI bots and zombie survival."
 ---
 
 <div style="display: flex; flex-direction: column; align-items: center;">
